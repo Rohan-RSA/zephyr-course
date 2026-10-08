@@ -1,0 +1,6 @@
+board:
+  name: my_board
+  full_name: Our board from scratch method
+  vendor: iomico
+  socs:
+  - name: mcxa156

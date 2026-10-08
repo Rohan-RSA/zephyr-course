@@ -8,6 +8,7 @@
 #include <fsl_clock.h>
 #include <fsl_spc.h>
 #include <soc.h>
+#include <stdio.h>
 
 /* Core clock frequency: 96MHz */
 #define CLOCK_INIT_CORE_CLOCK            96000000U
@@ -246,4 +247,6 @@ void board_early_init_hook(void)
 
 	/* Set SystemCoreClock variable. */
 	SystemCoreClock = CLOCK_INIT_CORE_CLOCK;
+
+	printf("Board initialized\r\n");
 }

@@ -1,0 +1,3 @@
+description: Simple driver to toggle an onboard led
+compatible: "our,driver"
+include: base.yaml

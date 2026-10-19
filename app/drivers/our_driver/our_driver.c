@@ -2,6 +2,8 @@
 #include <zephyr/logging/log.h>
 #include <zephyr/drivers/gpio.h>
 
+#include "our_driver.h"
+
 #define DT_DRV_COMPAT our_driver
 
 LOG_MODULE_REGISTER(our_driver, LOG_LEVEL_INF);
@@ -12,6 +14,11 @@ bool led_state = true;
 #define LED_NODE DT_ALIAS(app_led)
 
 static const struct gpio_dt_spec led = GPIO_DT_SPEC_GET(LED_NODE, gpios);
+
+int my_extension_api_func(our_struct_t *our_struct)
+{
+    return ++our_struct->mutable_int;
+}
 
 static int sensor_sample_fetch_my_impl(const struct device *dev,
 				                         enum sensor_channel chan)

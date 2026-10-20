@@ -5,9 +5,9 @@ extern "C" {
 
 typedef struct our_struct_t {
     int mutable_int;
-} our_struct_t;
+} our_struct;
 
-int my_extension_api_func(our_struct_t *our_struct);
+int my_extension_api_func(our_struct *our_struct, int val);
 
 #ifdef __cplusplus
 }

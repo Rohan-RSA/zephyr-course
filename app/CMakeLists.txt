@@ -5,6 +5,6 @@ set(BOARD nrf54l15dk/nrf54l05/cpuapp)
 find_package(Zephyr REQUIRED)
 project(my_zephyr_app)
 
-target_sources(app PRIVATE src/main.cpp)
+target_sources(app PRIVATE src/main.c)
 add_subdirectory(drivers/our_driver)
 include_directories(drivers/our_driver)

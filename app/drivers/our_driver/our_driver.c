@@ -15,9 +15,10 @@ bool led_state = true;
 
 static const struct gpio_dt_spec led = GPIO_DT_SPEC_GET(LED_NODE, gpios);
 
-int my_extension_api_func(our_struct_t *our_struct)
+int my_extension_api_func(our_struct *data, int val)
 {
-    return ++our_struct->mutable_int;
+    data->mutable_int += val;
+    return data->mutable_int;
 }
 
 static int sensor_sample_fetch_my_impl(const struct device *dev,
@@ -54,7 +55,8 @@ static int init_function(const struct device * dev)
 
     if (gpio_pin_configure_dt(&led, GPIO_OUTPUT_ACTIVE) < 0) return 0;
 
-    LOG_INF("Device initialized from init_function withing our_driver.c");
+    LOG_INF("Device initialized from init_function withing our_driver.c\r\r \
+        our_struct.mutable_int initialzed to 0");
 
     return 0;
 }

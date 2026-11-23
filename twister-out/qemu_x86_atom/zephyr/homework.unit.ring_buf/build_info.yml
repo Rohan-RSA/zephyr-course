@@ -1,0 +1,46 @@
+cmake:
+  application:
+    configuration-dir: 'C:/Projects/ZephyrCourses/iomco/zephyr-course/tests/ring_buf'
+    source-dir: 'C:/Projects/ZephyrCourses/iomco/zephyr-course/tests/ring_buf'
+  board:
+    name: 'qemu_x86'
+    path:
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/boards/qemu/x86'
+    qualifiers: 'atom'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/bindings'
+    files:
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/boards/qemu/x86/qemu_x86.dts'
+    include-dirs:
+     - 'C:/Projects/ZephyrCourses/iomco/deps/modules/hal/nxp/dts'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/modules/hal/stm32/dts'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/include'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/include/zephyr'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/common'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/vendor'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/rx'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/x86'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/xtensa'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/sparc'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/riscv'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/posix'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/arm64'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/arm'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts/arc'
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/dts'
+  kconfig:
+    files:
+     - 'C:/Projects/ZephyrCourses/iomco/deps/zephyr/boards/qemu/x86/qemu_x86_defconfig'
+     - 'C:/Projects/ZephyrCourses/iomco/zephyr-course/tests/ring_buf/prj.conf'
+     - 'C:/Projects/ZephyrCourses/iomco/zephyr-course/twister-out/qemu_x86_atom/zephyr/homework.unit.ring_buf/zephyr/misc/generated/extra_kconfig_options.conf'
+    user-files:
+     - 'C:/Projects/ZephyrCourses/iomco/zephyr-course/tests/ring_buf/prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: 'C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3'
+  zephyr:
+    version: '4.2.0'
+    zephyr-base: 'C:/Projects/ZephyrCourses/iomco/deps/zephyr'
+version: '0.1.0'

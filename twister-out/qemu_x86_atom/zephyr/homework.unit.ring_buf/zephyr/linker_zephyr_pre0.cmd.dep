@@ -65,9 +65,11 @@ linker_zephyr_pre0.cmd: \
  C:/Projects/ZephyrCourses/iomco/deps/zephyr/include/zephyr/linker/thread-local-storage.ld \
  C:/Projects/ZephyrCourses/iomco/deps/zephyr/include/zephyr/arch/x86/ia32/scripts/static_intr.ld \
  C:/Projects/ZephyrCourses/iomco/zephyr-course/twister-out/qemu_x86_atom/zephyr/homework.unit.ring_buf/zephyr/include/generated/snippets-rodata.ld \
+ c:\projects\zephyrcourses\iomco\deps\zephyr\subsys\testsuite\coverage\coverage_rodata.ld \
  C:/Projects/ZephyrCourses/iomco/deps/zephyr/include/zephyr/linker/kobject-rom.ld \
  C:/Projects/ZephyrCourses/iomco/deps/zephyr/include/zephyr/linker/cplusplus-rom.ld \
  C:/Projects/ZephyrCourses/iomco/zephyr-course/twister-out/qemu_x86_atom/zephyr/homework.unit.ring_buf/zephyr/include/generated/snippets-ram-sections.ld \
+ c:\projects\zephyrcourses\iomco\deps\zephyr\subsys\testsuite\coverage\coverage_ram.ld \
  C:/Projects/ZephyrCourses/iomco/zephyr-course/twister-out/qemu_x86_atom/zephyr/homework.unit.ring_buf/zephyr/include/generated/snippets-rwdata.ld \
  C:/Projects/ZephyrCourses/iomco/deps/zephyr/include/zephyr/arch/x86/ia32/scripts/shared_kernel_pages.ld \
  C:/Projects/ZephyrCourses/iomco/deps/zephyr/include/zephyr/linker/cplusplus-ram.ld \

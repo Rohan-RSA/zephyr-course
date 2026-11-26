@@ -130,6 +130,7 @@ events:
     found: null
     search_context:
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -201,6 +202,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -300,6 +302,7 @@ events:
     found: null
     search_context:
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -371,6 +374,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -413,6 +417,7 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -484,6 +489,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -508,6 +514,7 @@ events:
     names:
       - "ccache"
     candidate_directories:
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -549,8 +556,12 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ccache.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ccache.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ccache"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/ccache.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/ccache.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/ccache"
@@ -674,12 +685,16 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/ccache.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/ccache.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/ccache"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/ccache.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/ccache.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/ccache"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ccache.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ccache.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ccache"
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -751,6 +766,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -836,6 +852,30 @@ events:
         reason: "no_exist"
       -
         path: "C:/Projects/ZephyrCourses/iomco/zephyr-course/twister-out/qemu_x86_atom/zephyr/homework.unit.ring_buf/CMakeFiles/pkgRedirects/share/cps/zephyr-sdk.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/Zephyr-sdkConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/zephyr-sdk-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/lib/cps/Zephyr-sdk.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/lib/cps/zephyr-sdk.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/share/cps/Zephyr-sdk.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/share/cps/zephyr-sdk.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -1751,6 +1791,30 @@ events:
         mode: "cps"
         reason: "no_exist"
       -
+        path: "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/Zephyr-sdkConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/zephyr-sdk-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/lib/cps/Zephyr-sdk.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/lib/cps/zephyr-sdk.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/share/cps/Zephyr-sdk.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/share/cps/zephyr-sdk.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
         path: "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/Zephyr-sdkConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -1852,6 +1916,7 @@ events:
     found: null
     search_context:
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -1923,6 +1988,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -1951,6 +2017,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -1992,6 +2059,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/gperf.com"
@@ -2003,6 +2071,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gperf.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gperf.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gperf"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gperf.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gperf.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gperf"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gperf.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gperf.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gperf"
@@ -2036,6 +2107,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -2107,6 +2179,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -2135,6 +2208,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -2176,6 +2250,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/openocd.com"
@@ -2187,6 +2262,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/openocd.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/openocd.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/openocd"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/openocd.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/openocd.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/openocd"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/openocd.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/openocd.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/openocd"
@@ -2259,6 +2337,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -2330,6 +2409,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -2358,6 +2438,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -2399,6 +2480,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/bossac.com"
@@ -2410,6 +2492,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bossac.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bossac.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bossac"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/bossac.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/bossac.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/bossac"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/bossac.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/bossac.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/bossac"
@@ -2533,6 +2618,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/bossac.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/bossac.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/bossac"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/bossac.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/bossac.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/bossac"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/bossac.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/bossac.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/bossac"
@@ -2541,6 +2629,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -2612,6 +2701,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -2642,6 +2732,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
       - "/scripts/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -2683,6 +2774,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/imgtool.py.com"
@@ -2709,6 +2801,12 @@ events:
       - "/scripts/imgtool.com"
       - "/scripts/imgtool.exe"
       - "/scripts/imgtool"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/imgtool.py.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/imgtool.py.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/imgtool.py"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/imgtool.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/imgtool.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/imgtool"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/imgtool.py.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/imgtool.py.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/imgtool.py"
@@ -2955,6 +3053,12 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/imgtool.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/imgtool.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/imgtool"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/imgtool.py.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/imgtool.py.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/imgtool.py"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/imgtool.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/imgtool.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/imgtool"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/imgtool.py.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/imgtool.py.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/imgtool.py"
@@ -2966,6 +3070,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -3037,6 +3142,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -3065,6 +3171,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -3106,6 +3213,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/winpty.com"
@@ -3117,6 +3225,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/winpty.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/winpty.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/winpty"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/winpty.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/winpty.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/winpty"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/winpty.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/winpty.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/winpty"
@@ -3240,6 +3351,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/winpty.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/winpty.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/winpty"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/winpty.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/winpty.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/winpty"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/winpty.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/winpty.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/winpty"
@@ -3248,6 +3362,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -3319,6 +3434,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -3353,6 +3469,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -3424,6 +3541,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -3458,6 +3576,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -3529,6 +3648,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -3557,6 +3677,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -3598,6 +3719,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/dtc.com"
@@ -3609,6 +3731,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/dtc.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/dtc.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/dtc"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/dtc.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/dtc.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/dtc"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/dtc.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/dtc.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/dtc"
@@ -3642,6 +3767,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -3713,6 +3839,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -3747,6 +3874,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -3818,6 +3946,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -3852,6 +3981,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -3923,6 +4053,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -3957,6 +4088,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4028,6 +4160,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4062,6 +4195,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4133,6 +4267,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4167,6 +4302,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4238,6 +4374,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4272,6 +4409,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4343,6 +4481,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4377,6 +4516,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4448,6 +4588,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4482,6 +4623,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4553,6 +4695,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4587,6 +4730,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4658,6 +4802,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4692,6 +4837,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4763,6 +4909,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4797,6 +4944,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4868,6 +5016,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -4902,6 +5051,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -4973,6 +5123,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -5015,6 +5166,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -5056,6 +5208,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/ninja-build.com"
@@ -5085,6 +5238,15 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/samu.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/samu.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/samu"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ninja-build.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ninja-build.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ninja-build"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ninja.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ninja.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/ninja"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/samu.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/samu.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/samu"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/ninja-build.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/ninja-build.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/ninja-build"
@@ -5175,6 +5337,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -5246,6 +5409,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -5282,6 +5446,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -5353,6 +5518,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -5449,6 +5615,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/x86_64-zephyr-elf-dlltool.com"
@@ -5577,6 +5744,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-dlltool.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-dlltool.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-dlltool"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-dlltool.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-dlltool.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-dlltool"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-dlltool.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-dlltool.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-dlltool"
@@ -5706,6 +5876,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/dlltool.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/dlltool.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/dlltool"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/dlltool.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/dlltool.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/dlltool"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
@@ -5714,6 +5887,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -5785,6 +5959,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -5854,6 +6029,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/x86_64-zephyr-elf-addr2line.com"
@@ -5862,6 +6038,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -5933,6 +6110,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -6002,6 +6180,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/x86_64-zephyr-elf-tapi.com"
@@ -6130,6 +6309,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-tapi.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-tapi.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-tapi"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-tapi.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-tapi.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-tapi"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-tapi.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-tapi.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-tapi"
@@ -6259,6 +6441,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/tapi.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/tapi.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/tapi"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/tapi.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/tapi.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/tapi"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
@@ -6267,6 +6452,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -6338,6 +6524,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -6409,6 +6596,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/x86_64-zephyr-elf-gcc-ar-12.2.com"
@@ -6537,6 +6725,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.2.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.2.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.2"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.2.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.2.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.2"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.2.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.2.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.2"
@@ -6666,6 +6857,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12"
@@ -6795,6 +6989,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar12.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar12.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar12"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar12.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar12.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar12"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar12.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar12.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar12"
@@ -6804,6 +7001,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -6875,6 +7073,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -6946,6 +7145,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/x86_64-zephyr-elf-gcc-ranlib-12.2.com"
@@ -7074,6 +7274,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.2.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.2.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.2"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.2.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.2.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.2"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.2.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.2.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.2"
@@ -7203,6 +7406,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12"
@@ -7332,6 +7538,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib12.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib12.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib12"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib12.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib12.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib12"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib12.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib12.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib12"
@@ -7341,6 +7550,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -7412,6 +7622,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -7448,6 +7659,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -7519,6 +7731,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -7617,6 +7830,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/x86_64-zephyr-elf-gcc-ar-12.2.com"
@@ -7745,6 +7959,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.2.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.2.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.2"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.2.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.2.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.2"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.2.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.2.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.2"
@@ -7874,6 +8091,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-12"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-12"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-12"
@@ -8003,6 +8223,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar12.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar12.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar12"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar12.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar12.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar12"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar12.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar12.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar12"
@@ -8012,6 +8235,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -8083,6 +8307,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -8154,6 +8379,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/x86_64-zephyr-elf-gcc-ranlib-12.2.com"
@@ -8282,6 +8508,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.2.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.2.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.2"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.2.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.2.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.2"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.2.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.2.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.2"
@@ -8411,6 +8640,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-12"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-12"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-12"
@@ -8540,6 +8772,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib12.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib12.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib12"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib12.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib12.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib12"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib12.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib12.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib12"
@@ -8549,6 +8784,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -8620,6 +8856,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
   -
@@ -8654,6 +8891,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -8725,6 +8963,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Zephyr-Kernel"
@@ -8816,6 +9055,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/bin/"
     searched_directories:
@@ -8945,6 +9185,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-"
@@ -9077,6 +9320,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ar-"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ar-"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ar-"
@@ -9089,6 +9335,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -9160,6 +9407,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Zephyr-Kernel"
@@ -9234,6 +9482,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/bin/"
     searched_directories:
@@ -9363,6 +9612,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-"
@@ -9495,6 +9747,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/x86_64-zephyr-elf-gcc-ranlib-"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/x86_64-zephyr-elf-gcc-ranlib-"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/x86_64-zephyr-elf-gcc-ranlib-"
@@ -9507,6 +9762,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -9578,6 +9834,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Zephyr-Kernel"
@@ -9606,6 +9863,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -9647,6 +9905,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/bin/"
       - "C:/Projects/ZephyrCourses/iomco/deps/zephyr/scripts/build/"
@@ -9660,6 +9919,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gen_kobject_list.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gen_kobject_list.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gen_kobject_list"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gen_kobject_list.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gen_kobject_list.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gen_kobject_list"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gen_kobject_list.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gen_kobject_list.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gen_kobject_list"
@@ -9783,6 +10045,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/gen_kobject_list.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/gen_kobject_list.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/gen_kobject_list"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/gen_kobject_list.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/gen_kobject_list.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/gen_kobject_list"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gen_kobject_list.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gen_kobject_list.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gen_kobject_list"
@@ -9801,6 +10066,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gen_kobject_list.py.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gen_kobject_list.py.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/gen_kobject_list.py"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gen_kobject_list.py.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gen_kobject_list.py.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/gen_kobject_list.py"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gen_kobject_list.py.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gen_kobject_list.py.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/gen_kobject_list.py"
@@ -9924,6 +10192,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/gen_kobject_list.py.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/gen_kobject_list.py.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/gen_kobject_list.py"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/gen_kobject_list.py.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/gen_kobject_list.py.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/gen_kobject_list.py"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gen_kobject_list.py.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gen_kobject_list.py.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gen_kobject_list.py"
@@ -9937,6 +10208,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -10008,6 +10280,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Zephyr-Kernel"
@@ -10040,6 +10313,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -10111,6 +10385,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Zephyr-Kernel"
@@ -10137,6 +10412,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -10178,6 +10454,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/bin/"
     searched_directories:
@@ -10190,6 +10467,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/puncover.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/puncover.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/puncover"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/puncover.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/puncover.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/puncover"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/puncover.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/puncover.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/puncover"
@@ -10313,6 +10593,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/puncover.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/puncover.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/puncover"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/puncover.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/puncover.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/puncover"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/puncover.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/puncover.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/puncover"
@@ -10324,6 +10607,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -10395,6 +10679,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Zephyr-Kernel"
@@ -10421,6 +10706,7 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/bin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/sbin/"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/"
       - "C:/Users/rohan/AppData/Local/Programs/Python/Python312/"
       - "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/"
@@ -10462,6 +10748,7 @@ events:
       - "C:/Users/rohan/AppData/Local/Microsoft/WinGet/Packages/oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe/usr/bin/"
       - "C:/Users/rohan/AppData/Local/Python/bin/"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/bin/"
     searched_directories:
@@ -10474,6 +10761,9 @@ events:
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/pahole.com"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/pahole.exe"
       - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr/pahole"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/pahole.com"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/pahole.exe"
+      - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/x86_64-zephyr-elf/bin/pahole"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/pahole.com"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/pahole.exe"
       - "C:/Projects/ZephyrCourses/iomco/.venv/Scripts/pahole"
@@ -10597,6 +10887,9 @@ events:
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/pahole.com"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/pahole.exe"
       - "C:/Users/rohan/AppData/Local/Programs/Microsoft VS Code/bin/copilot-shim/pahole"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/pahole.com"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/pahole.exe"
+      - "C:/Users/rohan/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/pahole"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/pahole.com"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/pahole.exe"
       - "C:/Users/rohan/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/pahole"
@@ -10608,6 +10901,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -10679,6 +10973,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Zephyr-Kernel"
@@ -10815,6 +11110,7 @@ events:
       CMAKE_PREFIX_PATH:
         - "C:/Users/rohan/.zephyr_ide/toolchains/zephyr-sdk-0.17.3/sysroots/AMD64-pokysdk-linux/usr"
       ENV{PATH}:
+        - "C:\\Users\\rohan\\.zephyr_ide\\toolchains\\zephyr-sdk-0.17.3\\x86_64-zephyr-elf\\bin"
         - "C:\\Projects\\ZephyrCourses\\iomco\\.venv\\Scripts"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Python\\Python312"
         - "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\bin"
@@ -10886,6 +11182,7 @@ events:
         - "C:\\Users\\rohan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\oss-winget.dtc_Microsoft.Winget.Source_8wekyb3d8bbwe\\usr\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Python\\bin"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\rohan\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\rohan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "C:\\Users\\rohan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Zephyr-Kernel"
